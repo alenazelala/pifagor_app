@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PifagorApp</string>
+    <string name="title">Calculate "C" </string>
+    <string name="result_info">Result : </string>
+    <string name="info_a"> Input \"a"\ </string>
+    <string name="info_b"> Input \"b"\ </string>
+    <string name="result"> Result </string>
+
+</resources>
